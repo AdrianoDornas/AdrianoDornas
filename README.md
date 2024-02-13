@@ -12,9 +12,9 @@
   
 - 🌐 Para os fluentes e nativos em Português, conheça o chatbot [Apolo](https://apolo-tec-t4w3r.chat.blip.ai/?appKey=YXBvbG81OjhhMDZiOGI4LTVjYWItNDdmZS1iNmU2LTM2MjkwNGUyMmNiNg==)
   
-- Se o assunto for Gestão de Projetos e Processos: [Apolotec](https://www.instagram.com/apolotec7/)
+- 📊 Se o assunto for Gestão de Projetos e Processos: [Apolotec](https://www.instagram.com/apolotec7/)
 
-- Por fim a [Newsletter](https://www.linkedin.com/newsletters/apolotec-6972685599019270144) visa refletir paradigmas sociais, filosóficos e tecnológicos.
+- 📰 Por fim a [Newsletter](https://www.linkedin.com/newsletters/apolotec-6972685599019270144) visa refletir paradigmas sociais, filosóficos e tecnológicos.
   
 <!---
 AdrianoDornas/AdrianoDornas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
