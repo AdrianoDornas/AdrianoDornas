@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning:
    Python, C#, CSS, HTML, JavaScript:
   
-  <a href="https://postimg.cc/jCLtQYR4" target="_blank"><img src="https://i.postimg.cc/jCLtQYR4/com001.jpg" alt="com001" width=18%/></a> <a href="https://postimg.cc/HjRH6vxD" target="_blank"><img src="https://i.postimg.cc/HjRH6vxD/curso-o-que-e-csharp-1983.png" alt="curso-o-que-e-csharp-1983"/></a> <a href="https://postimg.cc/Xp5WmKGZ" target="_blank"><img src="https://i.postimg.cc/Xp5WmKGZ/download.jpg" alt="download"/></a><br/><br/>
+  <a href="https://postimg.cc/jCLtQYR4" target="_blank"><img src="https://i.postimg.cc/jCLtQYR4/com001.jpg" alt="com001" width=9% /></a> <a href="https://postimg.cc/HjRH6vxD" target="_blank"><img src="https://i.postimg.cc/HjRH6vxD/curso-o-que-e-csharp-1983.png" alt="curso-o-que-e-csharp-1983"/></a> <a href="https://postimg.cc/Xp5WmKGZ" target="_blank"><img src="https://i.postimg.cc/Xp5WmKGZ/download.jpg" alt="download"/></a><br/><br/>
   
 - 💞️ I'm looking to collaborate on projects related to Microsoft tools or  Artificial Intelligence.
 - 📫 How to reach me  [LinkedIn Profile](https://www.linkedin.com/in/adriano-dornas-03abb9103)
